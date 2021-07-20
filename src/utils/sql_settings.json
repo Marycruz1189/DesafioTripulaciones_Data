@@ -1,7 +1,7 @@
 {
-    "IP_DNS": "test",
+    "IP_DNS": "consciencesai.com",
     "PORT": 30001,
-    "USER": "fgn",
-    "PASSWORD": "cghm",
-    "BD_NAME":  "cgh"
+    "USER": "TB_Desafio_Gr2",
+    "PASSWORD": "FullAccessTourist",
+    "BD_NAME":  "TurismoAccesible"
 }
