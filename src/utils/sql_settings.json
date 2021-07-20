@@ -1,0 +1,7 @@
+{
+    "IP_DNS": "test",
+    "PORT": 30001,
+    "USER": "fgn",
+    "PASSWORD": "cghm",
+    "BD_NAME":  "cgh"
+}
