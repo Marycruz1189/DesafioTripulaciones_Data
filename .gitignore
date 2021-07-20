@@ -4,9 +4,7 @@ __pycache__/
 *$py.class
 
 # elementos ocultos del proyecto por peso o por privacidad
-models/
 documentation/
-to_server/
 *settings.json
 
 
