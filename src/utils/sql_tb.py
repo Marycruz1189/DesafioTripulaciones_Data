@@ -9,7 +9,7 @@ import utils.tools as tools
 from utils.mysql_driver import MySQL
 import utils.mysql_driver as drv
 
-def insert_sqlList (df_sql):
+def insert_sqlList (df_sql, table_name):
     # lectura de los datos de conexión a la base de datos y generación de las variables para conectarse
     json_readed = tools.read_json_to_dict("utils" + os.sep + "sql_settings.json")
     IP_DNS = json_readed["IP_DNS"]
@@ -32,11 +32,11 @@ def insert_sqlList (df_sql):
 
     # Create table as per requirement
     # Erase table if exiting already 
-    mysql_db.execute_interactive_sql(sql="DROP TABLE IF EXISTS miguel_barquero_delpozo")
+    mysql_db.execute_interactive_sql(sql=f"DROP TABLE IF EXISTS {table_name}")
 
     # Create the table to hold the data from the data set
     # Create the table with the columns automatically
-    create_table_sql = f"""CREATE TABLE miguel_barquero_delpozo(
+    create_table_sql = f"""CREATE TABLE {table_name}(
         ID INT(11) NOT NULL AUTO_INCREMENT,
         MOMENTO TIMESTAMP NOT NULL,
         {sql_create_columns}
@@ -56,7 +56,7 @@ def insert_sqlList (df_sql):
         for elem in values_list:
             sql_insert_values += ", '" + str(elem) + "'"
 
-        insert_row_sql = f"""INSERT INTO miguel_barquero_delpozo 
+        insert_row_sql = f"""INSERT INTO {table_name} 
         (MOMENTO{sql_insert_columns})
                     VALUES 
         (NOW(){sql_insert_values})"""
@@ -66,7 +66,7 @@ def insert_sqlList (df_sql):
     # cierre de la conexión a la base de datos
     mysql_db.close()
 
-def get_data_sql (current_cols):
+def get_data_sql (current_cols, table_name):
     # lectura de los datos de conexión a la base de datos y generación de las variables para conectarse
     json_readed = tools.read_json_to_dict("utils" + os.sep + "sql_settings.json")
     IP_DNS = json_readed["IP_DNS"]
@@ -78,7 +78,7 @@ def get_data_sql (current_cols):
     # generación de la instancia de BDD y lanzamiento de conexión
     mysql_db = MySQL(IP_DNS=IP_DNS, USER=USER, PASSWORD=PASSWORD, BD_NAME=BD_NAME, PORT=PORT)
     mysql_db.connect()
-    list_ = mysql_db.execute_get_sql("SELECT * FROM miguel_barquero_delpozo")
+    list_ = mysql_db.execute_get_sql(f"SELECT * FROM {table_name}")
     df_sql = pd.DataFrame(list_, columns= current_cols)
     
     # cierre de la conexión a la base de datos
