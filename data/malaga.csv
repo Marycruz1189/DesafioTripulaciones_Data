@@ -1,0 +1,611 @@
+tipo,lat,lon,name,address,location
+restaurant,36.6658659,-4.4646231,Frascati,Calle Rogelio Oliva 29,Málaga
+restaurant,36.7241869,-4.4211525,El Apartamento,Calle Carretería 92,Málaga
+restaurant,36.720385,-4.4219753,Beluga,Plaza de Las Flores 3,Málaga
+restaurant,36.6779007,-4.4920644,NO NAME,NO STREET 9999,Málaga
+restaurant,36.7221131,-4.416876,El Vegetariano de Alcazabilla,Calle Pozo del Rey 5,Málaga
+restaurant,36.6742292,-4.4843532,Restaurante Los Bravos,Calle Argonautas 9999,Málaga
+restaurant,36.6753983,-4.4875202,NO NAME,NO STREET 9999,Málaga
+restaurant,36.6642406,-4.4614229,Tick Tack Arrocería,Calle Rogelio Oliva 15,Málaga
+restaurant,36.7223073,-4.4206242,Pepa y Pepe,NO STREET 9999,Málaga
+restaurant,36.7221926,-4.42066,Taberna Matahambre,NO STREET 9999,Málaga
+restaurant,36.7236525,-4.4203611,El Beato,NO STREET 9999,Málaga
+restaurant,36.7222345,-4.4192671,Clandestino,NO STREET 9999,Málaga
+restaurant,36.7218492,-4.4172764,La Plaza,Calle Alcazabilla 7,Málaga
+restaurant,36.6923413,-4.4408775,Pedro,Paseo Marítimo Antonio Banderas 22,Málaga
+restaurant,36.6897788,-4.4423937,Bellavista Mare,Paseo Marítimo Antonio Banderas 28,Málaga
+restaurant,36.6903106,-4.4452194,El Pavo Real,NO STREET 9999,Málaga
+restaurant,36.7172731,-4.4629871,MataHambre,NO STREET 9999,Málaga
+restaurant,36.7361506,-4.4747962,Amador,NO STREET 9999,Málaga
+restaurant,36.7152678,-4.4142366,Bodegas quintapenas,NO STREET 9999,Málaga
+restaurant,36.715174,-4.4143981,Muelle 16,NO STREET 9999,Málaga
+restaurant,36.7240319,-4.4198565,El Mesón de Cervantes,NO STREET 9999,Málaga
+restaurant,36.7239894,-4.4194943,La Romantica,NO STREET 9999,Málaga
+restaurant,36.7239539,-4.4193094,Tapeo de Cervantes,Calle Cárcer 8,Málaga
+restaurant,36.7237883,-4.4197485,Taperia de Sybaris,NO STREET 9999,Málaga
+restaurant,36.7191054,-4.422576,La Aldea,Calle Esparteros 5,Málaga
+restaurant,36.7192743,-4.4220503,Mesón Lo Güeno,Calle Marín García 9,Málaga
+restaurant,36.7197563,-4.4209394,Strachan,Calle Strachan 5,Málaga
+restaurant,36.7196308,-4.4209509,Gorki,Calle Strachan 6,Málaga
+restaurant,36.7224552,-4.4169854,Agora,Calle Alcazabilla 14,Málaga
+restaurant,36.7226447,-4.4172415,Sushi King,Plaza María Guerrero 5,Málaga
+restaurant,36.7228577,-4.4177425,Lechuga,Plaza de la Merced 1,Málaga
+restaurant,36.722825,-4.4176746,Cortijo de Pepe,NO STREET 9999,Málaga
+restaurant,36.7230553,-4.41825,King,NO STREET 9999,Málaga
+restaurant,36.7229865,-4.4180515,Lorenzo Trattoria,NO STREET 9999,Málaga
+restaurant,36.7233434,-4.4182125,Citron,NO STREET 9999,Málaga
+restaurant,36.7238424,-4.4173713,Restaurante Ispaña,Plaza de la Merced 17,Málaga
+restaurant,36.7237403,-4.4172126,La Plaza,Plaza de la Merced 18,Málaga
+restaurant,36.7234635,-4.4167849,Canadu,Plaza de la Merced 21,Málaga
+restaurant,36.723693,-4.419565,Noviembre,Calle Álamos 18,Málaga
+restaurant,36.7241315,-4.4188847,La Brocheteria,NO STREET 9999,Málaga
+restaurant,36.722821,-4.4205957,Udon,Calle Méndez Núñez 5,Málaga
+restaurant,36.7217242,-4.4214728,Pepa Y Pepe,NO STREET 9999,Málaga
+restaurant,36.722692,-4.4227066,El Calafate,NO STREET 9999,Málaga
+restaurant,36.7228683,-4.4229319,La Casa del Perro,NO STREET 9999,Málaga
+restaurant,36.7189726,-4.4229032,La Cueva de 1900,Calle de Alarcón Luján 1,Málaga
+restaurant,36.718528,-4.422206,La Cueva de 1900,Calle Martínez 9,Málaga
+restaurant,36.7186393,-4.4209363,Los Mellizos,NO STREET 9999,Málaga
+restaurant,36.7188113,-4.4209792,Marisqueria Los Mellizos,NO STREET 9999,Málaga
+restaurant,36.7194026,-4.4209443,La Dehesa,NO STREET 9999,Málaga
+restaurant,36.7194241,-4.4206305,El Rescoldo,NO STREET 9999,Málaga
+restaurant,36.719408,-4.4204803,La Barra,NO STREET 9999,Málaga
+restaurant,36.7193769,-4.4202236,Dgustar,NO STREET 9999,Málaga
+restaurant,36.7192542,-4.4202389,El Café de Bolsa,NO STREET 9999,Málaga
+restaurant,36.7192757,-4.4204159,La Reserva,NO STREET 9999,Málaga
+restaurant,36.7197063,-4.4207526,Pastrani,NO STREET 9999,Málaga
+restaurant,36.7195914,-4.4205585,Mesón La Cepa,NO STREET 9999,Málaga
+restaurant,36.7195953,-4.4204718,Lo Gueno,NO STREET 9999,Málaga
+restaurant,36.7187481,-4.4220386,La Taberna del Pintxo,Calle de Alarcón Luján 12,Málaga
+restaurant,36.7192392,-4.3616109,Gabi,Calle Quitapenas 73,Málaga
+restaurant,36.719142,-4.3607782,Restaurante Hija de Antoñín,Calle Quitapenas 93,Málaga
+restaurant,36.7192436,-4.3632708,El Zagal,Calle Quitapenas 23,Málaga
+restaurant,36.719235,-4.3629421,Bar Merendero Los Marineros,Calle Quitapenas 31,Málaga
+restaurant,36.7197755,-4.3679776,El Rompeolas,Paseo Marítimo El Pedregal 89,Málaga
+restaurant,36.7142113,-4.4372539,Astorga,NO STREET 9999,Málaga
+restaurant,36.7494475,-4.4207648,Casa Anita,NO STREET 9999,Málaga
+restaurant,36.6996931,-4.4470278,El Horno,NO STREET 9999,Málaga
+restaurant,36.716374,-4.4306059,Cueva del Camborio,Avenida de la Aurora 18,Málaga
+restaurant,36.7225473,-4.4199726,Mariano,Calle Granados 2,Málaga
+restaurant,36.6908062,-4.4476963,La Taberna,NO STREET 9999,Málaga
+restaurant,36.6673726,-4.4734359,Mesón El Pollo del Tío Paco,Calle Londres 6,Málaga
+restaurant,36.7203776,-4.3621698,El Cobertizo,Avenida Pío Baroja 25,Málaga
+restaurant,36.6867052,-4.4521706,Agustín,Avenida Molière 25,Málaga
+restaurant,36.70187,-4.4450318,Arlandis,NO STREET 9999,Málaga
+restaurant,36.7049233,-4.435562,El Almirez,Calle Río Rocio 8,Málaga
+restaurant,36.7173336,-4.4555383,Mesón Alvaluz,Calle Stendhal 7,Málaga
+restaurant,36.7208758,-4.420272,El Trasiego,NO STREET 9999,Málaga
+restaurant,36.7211231,-4.4202173,La Rebana,NO STREET 9999,Málaga
+restaurant,36.714484,-4.4364431,Los Geranios,NO STREET 9999,Málaga
+restaurant,36.7145228,-4.4271488,La Colmena,Calle Cuarteles 15,Málaga
+restaurant,36.7152945,-4.4225756,La Rambla,Calle Tomás Heredia 23,Málaga
+restaurant,36.7153997,-4.4231825,Mesón Gallego,Calle Martínez Campos 9,Málaga
+restaurant,36.7198426,-4.4185669,El Huesca,Calle Cañón 13,Málaga
+restaurant,36.71705,-4.42181,Luciano,NO STREET 9999,Málaga
+restaurant,36.7190225,-4.4211346,Cerveceria La Goyesca,NO STREET 9999,Málaga
+restaurant,36.728337,-4.4131986,Er Compa,NO STREET 9999,Málaga
+restaurant,36.7196,-4.4203651,La Cepa,NO STREET 9999,Málaga
+restaurant,36.7201767,-4.4186357,Rincón Catedral,NO STREET 9999,Málaga
+restaurant,36.7205322,-4.4357511,Los Cazadores,Calle Santa Elena 15,Málaga
+restaurant,36.72057,-4.423,Antonio,Calle Fernando de Lesseps 5,Málaga
+restaurant,36.7233401,-4.4212433,54,NO STREET 9999,Málaga
+restaurant,36.7235378,-4.42351,Rias Baixas,NO STREET 9999,Málaga
+restaurant,36.7329942,-4.429392,Los Robles de León,Avenida Luis Buñuel 7,Málaga
+restaurant,36.7349194,-4.480809,El Tomellar,Calle Nísperos 12,Málaga
+restaurant,36.7217336,-4.4201231,Noodles,NO STREET 9999,Málaga
+restaurant,36.7271449,-4.424695,La Galera,NO STREET 9999,Málaga
+restaurant,36.7276985,-4.4243792,Bar Salamanca,NO STREET 9999,Málaga
+restaurant,36.6924288,-4.4764716,Molino Andaluz,Calle Alejandro Casona 38,Málaga
+restaurant,36.7237916,-4.4226653,Ciao,NO STREET 9999,Málaga
+restaurant,36.7209408,-4.3739188,El Caleño,Paseo Marítimo El Pedregal 49,Málaga
+restaurant,36.7083468,-4.4350126,Pizzeria Mariloli,Calle Héroe de Sostoa 68,Málaga
+restaurant,36.7242209,-4.4185946,El Piano,NO STREET 9999,Málaga
+restaurant,36.7109362,-4.430075,Carolina,Calle Ayala 1,Málaga
+restaurant,36.7131946,-4.4147073,Restaurante Casa de Botes,Paseo de Levante 4,Málaga
+restaurant,36.7209564,-4.376595,La Paloma,NO STREET 9999,Málaga
+restaurant,36.7209709,-4.3768774,Merendero El Cabra,Paseo Marítimo El Pedregal 17,Málaga
+restaurant,36.7217142,-4.4248443,Restaurante La Barbacana,Carreteria 6,Málaga
+restaurant,36.7223889,-4.4198696,Los Gatos,Plaza Uncibay 9,Málaga
+restaurant,36.7174091,-4.4115019,Los Delfines,NO STREET 9999,Málaga
+restaurant,36.7178402,-4.4097361,El Tres,Plaza de la Malagueta 4,Málaga
+restaurant,36.7183051,-4.4109652,Cafe París,NO STREET 9999,Málaga
+restaurant,36.7352157,-4.4784317,Kaiser American Food,Calle Lope de Rueda 64,Málaga
+restaurant,36.7174875,-4.3511759,Antonio,Calle Playa del Chanquete 41,Málaga
+restaurant,36.6880103,-4.4430599,Casa Lucas,Paseo Marítimo Antonio Banderas 15,Málaga
+restaurant,36.7178132,-4.4233107,Antigua Casa de Guardia,Alameda Principal 18,Málaga
+restaurant,36.7217681,-4.4196227,Casa del Piyayo,Calle Granada 36,Málaga
+restaurant,36.7212174,-4.4211801,Bodegas Quitapenas,Calle Sánchez Pastor 2,Málaga
+restaurant,36.7206958,-4.3723633,La Galerna,Paseo Marítimo El Pedregal 66,Málaga
+restaurant,36.7213444,-4.4189508,Tetería Palacio Nazarí,Calle San Agustín 7,Málaga
+restaurant,36.7146773,-4.4239115,Mesón Ibérico,Calle San Lorenzo 27,Málaga
+restaurant,36.7235999,-4.4193737,BlackLabel Urban grill,Calle Álamos 22,Málaga
+restaurant,36.721881,-4.4199633,La Cosmopolita,NO STREET 9999,Málaga
+restaurant,36.7196574,-4.4189214,El Refectorium Catedral,Calle Postigo de los Abades 4,Málaga
+restaurant,36.7241034,-4.4184438,Pizzeria Il Colosseo,NO STREET 9999,Málaga
+restaurant,36.7215014,-4.420827,Mesón Cantarrana,Calle Sánchez Pastor 10,Málaga
+restaurant,36.7217334,-4.4202376,Beher,Calle Granada 25,Málaga
+restaurant,36.7205642,-4.4185256,El Jardin,NO STREET 9999,Málaga
+restaurant,36.7240288,-4.4191829,Vinería Cervantes,Calle Cárcer 10,Málaga
+restaurant,36.7213007,-4.4231015,Canela Fina,Calle Salvago 2,Málaga
+restaurant,36.7212395,-4.4229875,Dehesa Santamaria,Calle Salvago 1,Málaga
+restaurant,36.7221189,-4.419225,Bodega El Patio,Calle Granada 39,Málaga
+restaurant,36.6905564,-4.44723,Nómadas,Camino de La Térmica 2,Málaga
+restaurant,36.6901994,-4.4496423,Papulinos 2,Calle Correo de Andalucía 4,Málaga
+restaurant,36.6898291,-4.4485984,El Hormiguero,Calle Correo de Andalucía 4,Málaga
+restaurant,36.7190839,-4.4092956,La Equina,NO STREET 9999,Málaga
+restaurant,36.719689,-4.4100416,Refectorium,Calle Cervantes 8,Málaga
+restaurant,36.7219659,-4.4762984,Cardamomo,Calle Hermes 7,Málaga
+restaurant,36.7173932,-4.4622366,El viejo pit,NO STREET 9999,Málaga
+restaurant,36.7102006,-4.4454201,El Pesaito de Nicolas,Avenida Juan XXIII 45,Málaga
+restaurant,36.7196764,-4.4250266,Café Bar Ortega,Pasillo de Santa Isabel 15,Málaga
+restaurant,36.7224052,-4.4187429,Los Patios de Beatas,Calle Beatas 43,Málaga
+restaurant,36.7202586,-4.4209626,Taberna de Pitita,Calle Fresca 12,Málaga
+restaurant,36.71925,-4.4197371,Tita Carmen,NO STREET 9999,Málaga
+restaurant,36.7178211,-4.3532717,Narval Marisquería,NO STREET 9999,Málaga
+restaurant,36.7298471,-4.4156793,Gambrinus,Calle Zenete 5,Málaga
+restaurant,36.7203907,-4.4211845,El Chinitas,Calle Moreno Monroy 4-6,Málaga
+restaurant,36.7212108,-4.4200733,Terra Mia,NO STREET 9999,Málaga
+restaurant,36.721776,-4.4184814,Bodeguita El Gallo,Calle San Agustín 19,Málaga
+restaurant,36.7139685,-4.4252359,Óleo Restaurante,Calle Alemania 9999,Málaga
+restaurant,36.7162625,-4.4223424,El Rincón del Cervecero,Calle Casas de Campos 5,Málaga
+restaurant,36.731162,-4.4156618,Ancá er Mejillón,Calle Santa María Micaela 16,Málaga
+restaurant,36.7311907,-4.4155408,Enrique y Paco,Calle Santa María Micaela 16,Málaga
+restaurant,36.7311135,-4.4153193,Marfil,Calle Cristo de la Epidemia 73,Málaga
+restaurant,36.7234084,-4.4166476,La Merced 22,Calle Victoria 5,Málaga
+restaurant,36.7232841,-4.4164974,El Chef de la Victoria,Calle Victoria 10,Málaga
+restaurant,36.7222972,-4.4170227,Taberna del Tapeo,Calle Alcazabilla 12,Málaga
+restaurant,36.7222252,-4.4172064,The Show,Calle Alcazabilla 11,Málaga
+restaurant,36.7221702,-4.4170301,100 Montaditos,Calle Alcazabilla 12,Málaga
+restaurant,36.7282372,-4.41323,El Tapeo del Compás,Calle Compás de la Victoria 22,Málaga
+restaurant,36.7284078,-4.4134655,Bar la Comba,Calle Compás de la Victoria 19,Málaga
+restaurant,36.7282422,-4.4135159,Chicon Quintana,Calle Compás de la Victoria 15,Málaga
+restaurant,36.7280424,-4.4132943,El Caldero,Calle Compás de la Victoria 18,Málaga
+restaurant,36.7279475,-4.414262,Como en Casa,Calle Cristo de la Epidemia 18,Málaga
+restaurant,36.7276912,-4.4142311,Taberna los Culitos,Calle Cristo de la Epidemia 12,Málaga
+restaurant,36.7282285,-4.4154792,El Camino,Calle Chaves 22,Málaga
+restaurant,36.7288887,-4.4148591,Taberna La Quintana,Calle Tejeros 7,Málaga
+restaurant,36.7296575,-4.4142467,Aliolé,Calle Gordón 1,Málaga
+restaurant,36.7328579,-4.4028285,Guisando,Calle La Era 25,Málaga
+restaurant,36.7325955,-4.4033951,El Mesoncito del Limonar,Calle Sierra de Grazalema 39,Málaga
+restaurant,36.729786,-4.4025133,Abreboca,Calle Sierra de Grazalema 20,Málaga
+restaurant,36.7225084,-4.4196356,Raff Tapas & Bar,Calle José Denis Belgrano 17,Málaga
+restaurant,36.7298341,-4.4150234,Nerva,Calle Cristo de la Epidemia 55,Málaga
+restaurant,36.7300007,-4.4159928,Mesón Victoria,Calle Zenete 8,Málaga
+restaurant,36.7297607,-4.4156079,Asador Pineda,Calle Manrique 19,Málaga
+restaurant,36.7295681,-4.4155233,Fu Man Chun,Calle Gordón 17,Málaga
+restaurant,36.7172011,-4.4220362,Taberna La Antigua,Calle Trinidad Grund 12,Málaga
+restaurant,36.7327118,-4.4163148,El Fogón de Rafael,Alameda Capuchinos 90,Málaga
+restaurant,36.7299302,-4.4171747,El Pikón,Plaza Lex Flavia Malacitana 7,Málaga
+restaurant,36.7295555,-4.4176901,Payma,Plaza Lex Flavia Malacitana 15,Málaga
+restaurant,36.7296141,-4.4179022,Bocatería Lex Flavia,Plaza Lex Flavia Malacitana 16,Málaga
+restaurant,36.7295531,-4.4180381,Mr. Bokata,Plaza Lex Flavia Malacitana 17,Málaga
+restaurant,36.7335217,-4.4152756,Casa Valverde,Calle Toquero 3,Málaga
+restaurant,36.7338996,-4.4154038,Bar La Guitarra,Calle Periodista Juanito Cortés 11,Málaga
+restaurant,36.7209163,-4.4069623,Casa Juan,Avenida de Príes 4,Málaga
+restaurant,36.7210026,-4.4065504,Oriental Gong,Avenida de Príes 14,Málaga
+restaurant,36.7210213,-4.4064849,Aire Gastrobar y Restaurante,Avenida de Príes 16,Málaga
+restaurant,36.7214378,-4.4060185,O Mamma Mia,Avenida de Príes 13,Málaga
+restaurant,36.7233289,-4.3961476,Restaurante Miramar,Avenida Pintor Joaquín Sorolla 12,Málaga
+restaurant,36.7236229,-4.3939652,Restaurante María,Avenida Pintor Joaquín Sorolla 45,Málaga
+restaurant,36.7215201,-4.4018151,La Taberna del Fraile,Paseo de Sancha 28,Málaga
+restaurant,36.7215569,-4.4016925,Sabor a Fuego,Paseo de Sancha 30,Málaga
+restaurant,36.7216041,-4.4015326,Restaurante De Sancha,Paseo de Sancha 30,Málaga
+restaurant,36.7214825,-4.4039585,Kaede,Paseo de Sancha 12,Málaga
+restaurant,36.7233169,-4.3943541,Bellavista Playa,Paseo Marítimo Pablo Ruiz Picasso 64,Málaga
+restaurant,36.6966669,-4.4423201,El Rincón de las Delicias,Avenida Sor Teresa Prat 56,Málaga
+restaurant,36.7210052,-4.3584019,Marisquería El Pimpi Florida,NO STREET 9999,Málaga
+restaurant,36.7195652,-4.3676318,Los Cuñao,Paseo Marítimo El Pedregal 94,Málaga
+restaurant,36.7218419,-4.4797197,Raff Tapas & Bar,NO STREET 9999,Málaga
+restaurant,36.7216103,-4.4187117,Restaurante Tormes,Calle San Agustín 13,Málaga
+restaurant,36.7205309,-4.4209175,Wendy Gamba,Calle Fresca 10,Málaga
+restaurant,36.7181403,-4.410376,Delicias del Mar,Plaza de la Malagueta 1,Málaga
+restaurant,36.7182671,-4.410526,Pizza Pino,Plaza de la Malagueta 1,Málaga
+restaurant,36.7186239,-4.4107136,Restaurante Marrakech,Avenida Cánovas del Castillo 12,Málaga
+restaurant,36.7187336,-4.4108155,Taj Palace,Avenida Cánovas del Castillo 12,Málaga
+restaurant,36.7188271,-4.4108825,Trastevere,Avenida Cánovas del Castillo 10,Málaga
+restaurant,36.7188272,-4.4098607,Bilmore,Calle Cervantes 13,Málaga
+restaurant,36.7192817,-4.4106647,La Romántica 2,Calle Arenal 1,Málaga
+restaurant,36.7194366,-4.410086,NO NAME,NO STREET 9999,Málaga
+restaurant,36.7198982,-4.4243844,El Mortal,NO STREET 9999,Málaga
+restaurant,36.7203942,-4.4212639,Terral Gastro Bar,NO STREET 9999,Málaga
+restaurant,36.7251882,-4.4617673,Palodú,Carril del Capitán 3,Málaga
+restaurant,36.720179,-4.4208935,La Barra de Zapata,Calle Salinas 10,Málaga
+restaurant,36.7250875,-4.4206112,La Luz de Candela,Calle Dos Aceras 18-20,Málaga
+restaurant,36.7243418,-4.4192635,Restaurante Uri Sushi,Calle Madre de Dios 31,Málaga
+restaurant,36.7210292,-4.3783731,Restaurante Pez Tomillo,NO STREET 9999,Málaga
+restaurant,36.7219557,-4.4208982,Mesón Astur,NO STREET 9999,Málaga
+restaurant,36.7216761,-4.4207284,Taberna El Mentidero,Calle Sánchez Pastor 12,Málaga
+restaurant,36.722109,-4.4175391,El Gato con Bots,Calle Santiago 6,Málaga
+restaurant,36.7227539,-4.4210162,Las Merchanas Taberna,Calle Adrés Perez 12,Málaga
+restaurant,36.7241625,-4.421611,La Tranca,Calle Carretería 93,Málaga
+restaurant,36.7274332,-4.4149654,Restaurante La Victoria,Calle Párrocco Ruiz Furest 5,Málaga
+restaurant,36.7127973,-4.435223,NO NAME,NO STREET 9999,Málaga
+restaurant,36.7223693,-4.4201481,Madeinterranea,NO STREET 9999,Málaga
+restaurant,36.7205816,-4.4178975,Okami,Calle Císter 13,Málaga
+restaurant,36.7218325,-4.4198351,Ciao,Calle Granada 33,Málaga
+restaurant,36.7151303,-4.4379042,El Tesoro del puchero,Calle Babel 5,Málaga
+restaurant,36.7158675,-4.4243055,El Imperdible,Calle Casas de Campos 26,Málaga
+restaurant,36.7213653,-4.4196846,Mura Mura,Calle Duque de la Victoria 5,Málaga
+restaurant,36.7181777,-4.4223056,Marisqueria Casa Vicente,NO STREET 9999,Málaga
+restaurant,36.7303421,-4.4465066,Pizzabalas,NO STREET 9999,Málaga
+restaurant,36.7180758,-4.4222785,Ala Turca,Alameda Principal 10,Málaga
+restaurant,36.7181093,-4.42217,Restaurante Estambul Grill,Alameda Principal 8,Málaga
+restaurant,36.7225123,-4.4200119,Arigato,Plaza Uncibay 9,Málaga
+restaurant,36.717286,-4.4217091,Pidebio Restaurante EcoTienda,Calle Trinidad Grund 8,Málaga
+restaurant,36.7193115,-4.4208004,Amigos,NO STREET 9999,Málaga
+restaurant,36.7203026,-4.4240402,Astrid Tapería Orgánica,Calle Calderón de la Barca 9999,Málaga
+restaurant,36.7366652,-4.4230852,Restaurante Marisquería Málaga Doramar,Calle Emilio Díaz 46,Málaga
+restaurant,36.7167367,-4.4237139,La Ménsula,NO STREET 9999,Málaga
+restaurant,36.7222586,-4.4199262,Zahara,NO STREET 9999,Málaga
+restaurant,36.7158977,-4.422323,Casa Miguel,NO STREET 9999,Málaga
+restaurant,36.7152418,-4.4142543,La Cueva de 1900,Paseo del Muelle Uno 57,Málaga
+restaurant,36.7179641,-4.423635,El Rincón Ibérico,Calle Panaderos 10,Málaga
+restaurant,36.7190175,-4.4225668,Tandoori Mex,Calle Esparteros 8,Málaga
+restaurant,36.7213197,-4.4346733,Taberna Los Barrigones,NO STREET 9999,Málaga
+restaurant,36.7136252,-4.4140943,La Farola,NO STREET 9999,Málaga
+restaurant,36.7210151,-4.3746942,La Machina Food and Drinks,Paseo Marítimo El Pedregal 42,Málaga
+restaurant,36.7203517,-4.422332,Vuala,NO STREET 9999,Málaga
+restaurant,36.7222748,-4.4767354,El Rompe Huevos,Calle Hermes 12,Málaga
+restaurant,36.7152405,-4.4273809,Loving Hut,Calle Peregrino 2,Málaga
+restaurant,36.723787,-4.4207185,Anchoita Bar,Plaza del Teatro 3,Málaga
+restaurant,36.7231598,-4.4367381,Pizzería La Fainá,Avenida San Sebastián 8,Málaga
+restaurant,36.7153054,-4.4273139,El Legado Celestial,Calle Peregrino 2,Málaga
+restaurant,36.7461047,-4.4094114,Bar Restaurante Trepaolla,NO STREET 9999,Málaga
+restaurant,36.7198537,-4.4096975,La Farola de Cervantes,Calle Cervantes 7,Málaga
+restaurant,36.7217403,-4.4127507,El Ambigú de la Coracha,Calle Campos Elíseos 14,Málaga
+restaurant,36.7146611,-4.4146308,Toro Muelle Uno,NO STREET 9999,Málaga
+restaurant,36.7240137,-4.4183298,NicPic,Calle San Juan de Letrán 7-9,Málaga
+restaurant,36.7221754,-4.4801382,Boca Llena,Avenida Parménides 10,Málaga
+restaurant,36.7325767,-4.4149282,Bar Pepe,Calle Fernando el Católico 53,Málaga
+restaurant,36.7120968,-4.433783,Brassa y Leña,Calle Explanada de la Estación 1,Málaga
+restaurant,36.7231026,-4.4201473,El Taqueo,NO STREET 9999,Málaga
+restaurant,36.721851,-4.4176252,La Sole del Pimpi,Calle Zegri 4,Málaga
+restaurant,36.723047,-4.4209459,NO NAME,NO STREET 9999,Málaga
+restaurant,36.7509405,-4.4207998,Restaurante Los Curros,Calle Juan Montes Hoyo 11,Málaga
+restaurant,36.7158297,-4.4629075,La Calle Burger Teatinos,Avenida Gregorio Prieto 27,Málaga
+restaurant,36.720834,-4.371574,Namaste,NO STREET 9999,Málaga
+restaurant,36.7209167,-4.3718098,NO NAME,NO STREET 9999,Málaga
+restaurant,36.7022479,-4.4364995,Marisquería Huelin,NO STREET 9999,Málaga
+restaurant,36.7188982,-4.4342727,Figón de Juan,Pasaje Esperanto 1,Málaga
+restaurant,36.7241264,-4.4217963,Gloria Hoyos,Calle Carretería 89,Málaga
+restaurant,36.7055037,-4.4357752,Burguer Mortadelo,Calle Capulino Jáuregui 4,Málaga
+restaurant,36.7128923,-4.4384138,La Pluma,NO STREET 9999,Málaga
+restaurant,36.7336689,-4.4159521,Los Montes,Camino Colmenar 3,Málaga
+restaurant,36.7227545,-4.4223234,Las Merchanas,NO STREET 9999,Málaga
+restaurant,36.7229296,-4.4229487,Las Merchanas II,NO STREET 9999,Málaga
+restaurant,36.6787897,-4.4467777,Bar paco,NO STREET 9999,Málaga
+restaurant,36.7217439,-4.419681,El Puyayo,NO STREET 9999,Málaga
+restaurant,36.7218783,-4.4197472,La Posada,NO STREET 9999,Málaga
+restaurant,36.7184528,-4.4127451,Hard Rock Café,Paseo del Muelle Uno 9999,Málaga
+restaurant,36.7243116,-4.4186854,Kipfer & Lover,NO STREET 9999,Málaga
+restaurant,36.694781,-4.4396435,Che Bolú Málaga,Calle Pacífico 29,Málaga
+restaurant,36.7099514,-4.433111,La Plancha Taberna,Calle Héroe de Sostoa 12-14,Málaga
+restaurant,36.667203,-4.4751277,Bar Currillo,Camino Carabineros 2,Málaga
+restaurant,36.7239512,-4.4200212,La Taberna de Cervantes,Calle Álamos 8,Málaga
+restaurant,36.7147725,-4.4284137,La Alacena de Francis,Calle Montalbán 1,Málaga
+restaurant,36.6743927,-4.4725503,El Palenque,Carril Guetara 25,Málaga
+restaurant,36.7090069,-4.4627857,Gálvez,Calle Mefistófeles 2,Málaga
+restaurant,36.7212862,-4.4749487,Patagonia,NO STREET 9999,Málaga
+restaurant,36.7219605,-4.4209906,Come Pizza,NO STREET 9999,Málaga
+restaurant,36.7497667,-4.4216098,Retrogusto,NO STREET 9999,Málaga
+restaurant,36.7202457,-4.423384,Yubá,NO STREET 9999,Málaga
+restaurant,36.7224406,-4.4203092,Casa Lola,NO STREET 9999,Málaga
+restaurant,36.7200082,-4.4081026,Casa Carlos 1936,Calle Keromnes 6,Málaga
+restaurant,36.6755943,-4.4903838,Dehesa Santamaría,NO STREET 9999,Málaga
+restaurant,36.720151,-4.4211935,Kortxo,Calle Salinas 3,Málaga
+restaurant,36.7151866,-4.464905,NO NAME,Calle de Gustavo Pittaluga 13,Málaga
+restaurant,36.715719,-4.4224542,Niña Bonita,Calle Martínez Campos 6,Málaga
+restaurant,36.7432424,-4.4107921,Bar Café Los Montaditos,Camino Colmenar 172,Málaga
+restaurant,36.6672383,-4.4746592,Sultan Golden Curry,Camino de Guadalmar a la Loma 4,Málaga
+restaurant,36.7222746,-4.4246846,Kale & Pepper Plant Food,Calle Carretería 15,Málaga
+restaurant,36.723355,-4.4207347,La Sociedad Herbívora,Calle Juan de Padilla 13,Málaga
+restaurant,36.7091828,-4.4339541,Asador Iñaki,Calle Héroe de Sostoa 46,Málaga
+restaurant,36.7532605,-4.4244169,La Pequeña Españita,Camino Casabermeja 35,Málaga
+restaurant,36.7386565,-4.4226878,Pizerría Picasso,Calle Lorenza Correa 18,Málaga
+restaurant,36.7273795,-4.3894646,La Vikinga,Calle Federico Fellini 34,Málaga
+restaurant,36.735028,-4.4235418,Ruance,Calle Emilio Díaz 22,Málaga
+restaurant,36.7306344,-4.4246903,Mesón Segalerva,Calle Actriz Rosario Pino 6,Málaga
+restaurant,36.7429125,-4.4221658,El Jardín,Calle Emilio Thuiller 16A,Málaga
+restaurant,36.7159311,-4.4246989,La Deriva,NO STREET 9999,Málaga
+restaurant,36.6833662,-4.4558716,La Scala Ristorante,Avenida Imperio Argentina 7,Málaga
+restaurant,36.6831432,-4.4553009,Trattoria Mamma Franca,Avenida Imperio Argentina 7,Málaga
+restaurant,36.6826323,-4.45393,La Grada,Avenida Imperio Argentina 15,Málaga
+restaurant,36.7362858,-4.4130969,Restaurante Casa Vázquez,Camino Colmenar 84,Málaga
+restaurant,36.7356191,-4.4060521,Restaurante Ana Quintana Molina,Camino de los Almendrales 97,Málaga
+restaurant,36.7167518,-4.4663347,Bibra,NO STREET 9999,Málaga
+restaurant,36.7161357,-4.4632637,D'Antojo,NO STREET 9999,Málaga
+restaurant,36.7175927,-4.4635071,Vulebar,NO STREET 9999,Málaga
+restaurant,36.7205981,-4.4354404,Natural Noodles,NO STREET 9999,Málaga
+restaurant,36.7208849,-4.42122,Café de Chinitas,Pasaje Chinitas 17,Málaga
+restaurant,36.7211777,-4.4808759,Cantina Canalla,Avenida Plutarco 16,Málaga
+restaurant,36.7223216,-4.4770222,La Cantina India,Calle Hermes 12,Málaga
+restaurant,36.7166905,-4.4238693,Cantina Canalla,Calle Trinidad Grund 28,Málaga
+restaurant,36.7260219,-4.444154,Tunante,Calle José Iturbi 5,Málaga
+restaurant,36.7158627,-4.423886,Mamuchis,Calle Casas de Campos 27,Málaga
+restaurant,36.7160224,-4.4244559,Mimo Vegan Bistro,Calle Vendeja 29,Málaga
+restaurant,36.7237389,-4.4206364,La Pachamama,NO STREET 9999,Málaga
+restaurant,36.7244609,-4.4193878,La Peregrina Centro,Calle Madre de Dios 37,Málaga
+restaurant,36.7227184,-4.4191196,La Valiente,Calle Beatas 29,Málaga
+restaurant,36.7244759,-4.4201961,Okami,NO STREET 9999,Málaga
+restaurant,36.7271044,-4.4298836,Restaurante Bar Oña,Plaza Hospital Civil 7,Málaga
+restaurant,36.7260038,-4.4440823,La Casa de Anyo,Calle José Iturbi 5,Málaga
+restaurant,36.7259856,-4.4440106,Taberna La Cazuela,Calle José Iturbi 5,Málaga
+restaurant,36.719641,-4.3678408,Las Acacias,Paseo Marítimo El Pedregal 90,Málaga
+restaurant,36.7208728,-4.3815896,El Balneario,Calle Bolivia 26,Málaga
+restaurant,36.6919288,-4.4458071,La Piccolina,Calle Luis Barahona de Soto 15,Málaga
+restaurant,36.7236217,-4.4252171,Er Juani,Avenida de la Rosaleda 12,Málaga
+restaurant,36.7174587,-4.4632752,Nómadas Burguer,Avenida Gregorio Prieto 17,Málaga
+restaurant,36.7324053,-4.4366015,La Casamata,Calle Alcalde Ronquillo 11,Málaga
+restaurant,36.7164127,-4.462971,D'Antojo,Avenida Gregorio Prieto 19,Málaga
+restaurant,36.723784,-4.4320407,Bar Restaurante El Asturiano,Plaza Bailén 2,Málaga
+restaurant,36.7216923,-4.4176337,Victoria El Pimpi,NO STREET 9999,Málaga
+restaurant,36.7206485,-4.3721676,Swan Pedregalejo,Paseo Marítimo El Pedregal 67,Málaga
+restaurant,36.722988,-4.4771308,Black Label Teatinos,Calle Andrómeda 15,Málaga
+restaurant,36.7345895,-4.4156838,Marisquería-Freiduría La Ñ,Camino Colmenar 26,Málaga
+restaurant,36.7244837,-4.4184283,La Mesonera,Calle Gómez Pallete 11,Málaga
+restaurant,36.7213101,-4.4247544,Hierbabuena,Calle Puerta Nueva 1,Málaga
+restaurant,36.7160382,-4.4623569,Receso,Calle Pirandello 16,Málaga
+restaurant,36.727696,-4.3977541,Restaurante Limonar 40,Paseo del Limonar 40,Málaga
+restaurant,36.7216021,-4.4186939,Restaurante Tormes,Calle San Agustin 13,Málaga
+restaurant,36.6988194,-4.4731816,Hostal El Romerito,NO STREET 9999,Málaga
+restaurant,36.7489504,-4.4071717,Restaurante Ventorrillo de Santa Clara,NO STREET 9999,Málaga
+restaurant,36.7482567,-4.4075,Restaurante La Minilla,NO STREET 9999,Málaga
+restaurant,36.7212769,-4.4127305,La Odisea de los Vinos,Subida a la Coracha 1,Málaga
+restaurant,36.6903954,-4.4456005,El Botijo,Avenida de los Guindos 33,Málaga
+restaurant,36.6931857,-4.4440376,Casa Ovi,Avenida Sor Teresa Prat 72,Málaga
+restaurant,36.7135696,-4.4281314,Mamá Ristorante & Pizzería,Calle Cuarteles 29,Málaga
+restaurant,36.7193806,-4.4770253,Cafetería Restaurante Los Alba,Calle Demóstenes 19,Málaga
+bar,36.7209361,-4.3781657,Mandala,NO STREET 9999,Málaga
+bar,36.7216918,-4.4197383,Mesón Gibralfaro,NO STREET 9999,Málaga
+bar,36.7222969,-4.4171951,Tiffany's,Calle Alcazabilla 11,Málaga
+bar,36.7230295,-4.4181857,Arte & Sana,NO STREET 9999,Málaga
+bar,36.72382,-4.4173389,Café Bar Calle de Bruselas,Plaza de la Merced 17,Málaga
+bar,36.7237601,-4.417256,Celtic Druids,Plaza de la Merced 18,Málaga
+bar,36.7236242,-4.4170343,Bar Picasso,Plaza de la Merced 19,Málaga
+bar,36.7235511,-4.4169338,Re-pitta,Plaza de la Merced 20,Málaga
+bar,36.7234096,-4.4167239,El Carmen,Plaza de la Merced 22,Málaga
+bar,36.7239132,-4.4188245,El Pescaito,NO STREET 9999,Málaga
+bar,36.7242402,-4.4191681,El Palco,NO STREET 9999,Málaga
+bar,36.7244546,-4.4191627,Bar Cervantes,NO STREET 9999,Málaga
+bar,36.7245414,-4.419058,Vino Mio,Plaza Jerónimo Cuervo 2,Málaga
+bar,36.7227199,-4.4206064,La Buena Cidra,NO STREET 9999,Málaga
+bar,36.7224974,-4.4204796,Neptuno,NO STREET 9999,Málaga
+bar,36.7223867,-4.4204803,La Tasca,NO STREET 9999,Málaga
+bar,36.7222235,-4.4204919,La Piconera,NO STREET 9999,Málaga
+bar,36.7222362,-4.4210275,Metro-Copas,NO STREET 9999,Málaga
+bar,36.7218772,-4.4213628,Soho,NO STREET 9999,Málaga
+bar,36.7196692,-4.4210731,La Cocotte,NO STREET 9999,Málaga
+bar,36.71991,-4.4202041,La Taberna Del Obispo,NO STREET 9999,Málaga
+bar,36.7200218,-4.4205232,L'experience,NO STREET 9999,Málaga
+bar,36.7201723,-4.4205527,Cheers,NO STREET 9999,Málaga
+bar,36.7211928,-4.3599599,Bodegas Quitapenas,NO STREET 9999,Málaga
+bar,36.7218352,-4.3646303,La Oficina,NO STREET 9999,Málaga
+bar,36.7150091,-4.4421382,La Campana,NO STREET 9999,Málaga
+bar,36.7242044,-4.4215222,La Tranca,NO STREET 9999,Málaga
+bar,36.7010536,-4.4372962,Casa Atenea,Calle Princesa 26,Málaga
+bar,36.7247653,-4.4155573,Esquinta Del Chupa Y Tira,Calle Victoria 31,Málaga
+bar,36.7217509,-4.4200388,Mercado Provenzal,NO STREET 9999,Málaga
+bar,36.7220235,-4.4207901,Be Happy,NO STREET 9999,Málaga
+bar,36.7220033,-4.4189788,Casa Lola,NO STREET 9999,Málaga
+bar,36.7219199,-4.4196502,La Campana,Calle Granada 35,Málaga
+bar,36.7204689,-4.4210292,Bar Orellana,Calle Moreno Monroy 5,Málaga
+bar,36.7144984,-4.4245946,Colon,Alameda de Colón 22,Málaga
+bar,36.7321185,-4.4170056,NO NAME,Alameda Capuchinos 81,Málaga
+bar,36.7230785,-4.4183018,Ceveceria Arte Sana,Plaza de la Merced 6,Málaga
+bar,36.7189592,-4.4094873,Gin Tonic,NO STREET 9999,Málaga
+bar,36.7297922,-4.4159611,Universitas Café,Calle Zenete 5,Málaga
+bar,36.7314494,-4.4178671,Al Almatin,Alameda Capuchinos 66,Málaga
+bar,36.7180187,-4.4093421,La Contraseña Music Bar,Plaza de la Malagueta 4,Málaga
+bar,36.7240925,-4.420321,NO NAME,NO STREET 9999,Málaga
+bar,36.7240624,-4.4214233,Bar Okey,Plaza San Pedro de Alcántara 5,Málaga
+bar,36.7223605,-4.43181,Bar Irene,Avenida Barcelona 9,Málaga
+bar,36.7295788,-4.4510682,La Macarena,Calle Macarena 15,Málaga
+bar,36.7206499,-4.363195,Bar Los Pibes,NO STREET 9999,Málaga
+bar,36.7164705,-4.4239141,La Fábrica,NO STREET 9999,Málaga
+bar,36.7197268,-4.4203945,Casa Lola,Calle Strachan 11,Málaga
+bar,36.720597,-4.3719166,Coctelería Vox,NO STREET 9999,Málaga
+bar,36.7206522,-4.371897,Al'tapeo,NO STREET 9999,Málaga
+bar,36.7123944,-4.4305961,Bar Inter Paris,NO STREET 9999,Málaga
+bar,36.7221733,-4.4205083,Zulaica,NO STREET 9999,Málaga
+bar,36.7298708,-4.4025489,El Tranvía,Calle Sierra de Grazalema 18,Málaga
+bar,36.7224888,-4.3654377,Bar El Maestro ,Avenida Juan Sebastián Elcano 141,Málaga
+bar,36.719538,-4.3591723,Bar Échate p'allá,Plaza del Niño de las Moras 9999,Málaga
+bar,36.6988041,-4.4752283,Bocadillos Los Prados,NO STREET 9999,Málaga
+bar,36.6988113,-4.4755405,Taperia Santy,NO STREET 9999,Málaga
+bar,36.698765,-4.4743916,Café Bar Juan Miguel,NO STREET 9999,Málaga
+bar,36.6987615,-4.4736792,Los Cazadores,NO STREET 9999,Málaga
+bar,36.6988449,-4.4725148,Cafetería Bar Guerrero Hijos,NO STREET 9999,Málaga
+bar,36.6988601,-4.4723339,Cafetería De Flores,NO STREET 9999,Málaga
+bar,36.7212989,-4.4198052,Bar Tocata,Calle Duque de la Victoria 6,Málaga
+bar,36.721221,-4.4242624,Luke's Bar,Calle Fajardo 2,Málaga
+pub,36.7229048,-4.4207244,Morrissey's,NO STREET 9999,Málaga
+pub,36.7117997,-4.4421918,Café Bar La Giralda,Avenida José Ortega y Gasset 5-7,Málaga
+pub,36.7202292,-4.4082033,Nuevo Miramar,Calle Keromnes 4,Málaga
+pub,36.7230129,-4.4224886,La Invisible,Calle Nosquera 11,Málaga
+pub,36.7144186,-4.4241856,NO NAME,Alameda de Colón 15,Málaga
+pub,36.7286989,-4.4145211,Café Bar El Caracol,Calle Cristo de la Epidemia 37,Málaga
+pub,36.6891518,-4.448018,Café Bar Loremar,Camino de La Térmica 16,Málaga
+pub,36.7209618,-4.3740479,La Tortuga Pedregalejo,Paseo Marítimo El Pedregal 48,Málaga
+pub,36.6938925,-4.4494206,Café Bar Arriate,NO STREET 9999,Málaga
+pub,36.7311305,-4.4492485,Bar Ricardo,NO STREET 9999,Málaga
+pub,36.7303353,-4.4495862,Taberna de Juan y Pepe,NO STREET 9999,Málaga
+pub,36.7213223,-4.4202464,Sala Premier,NO STREET 9999,Málaga
+pub,36.6658171,-4.4645331,Veroda,Calle Rogelio Oliva 29,Málaga
+pub,36.7151522,-4.422536,La Rebotica,NO STREET 9999,Málaga
+pub,36.7377922,-4.4213091,Cafetería Bermúdez,Avenida de las Postas 7,Málaga
+pub,36.7162865,-4.4227333,Hasta los Andares,Calle Casas de Campos 10,Málaga
+pub,36.7349067,-4.4087338,Cafetería-Bar Ternero,Camino de los Almendrales 39,Málaga
+pub,36.7217308,-4.4208802,NO NAME,NO STREET 9999,Málaga
+pub,36.723189,-4.4190995,Green Iguana Bar,Calle Ramón Franquelo 8,Málaga
+pub,36.6613314,-4.4983482,Tapería El Encuentro,Calle Peñuelas 6,Málaga
+pub,36.6620458,-4.4988539,La Batea,Calle Escritor Julio Balbas 16,Málaga
+pub,36.7383447,-4.4227008,Bar Los Caminos,Calle Lorenza Correa 14,Málaga
+pub,36.7348652,-4.4227523,Cafetería Atlantic,Calle San Juan Bosco 63,Málaga
+pub,36.7347491,-4.4226909,Bar Montesol,Calle Albéniz 23,Málaga
+pub,36.7305574,-4.4248067,Cafetería Oasis,Calle Actriz Rosario Pino 4,Málaga
+pub,36.7411992,-4.422411,Me Da Lo Mismo,Calle María Tubau 24,Málaga
+pub,36.7448634,-4.4218509,Bar Las Pedrizas,Calle Emilio Thuiller 56,Málaga
+pub,36.7440086,-4.4219715,Casa Fernández,Calle Emilio Thuiller 40,Málaga
+pub,36.7491716,-4.4216383,Bar Casa Navarro,Calle Emilio Thuiller 134,Málaga
+pub,36.7464444,-4.4216824,Richard,Calle Emilio Thuiller 94,Málaga
+pub,36.736943,-4.4225388,Castana,Calle San Juan Bosco 118,Málaga
+pub,36.6823616,-4.4533215,La Taskita del Tobita,Avenida Imperio Argentina 17,Málaga
+pub,36.7498443,-4.4228117,Taberna de Paso,Calle Fray Luis de León 12,Málaga
+pub,36.7104854,-4.4831687,Bar Villanueva,Avenida Washington 25,Málaga
+pub,36.7164001,-4.4234387,Élite Café,Calle Vendeja 30,Málaga
+cafe,36.7211582,-4.4215087,Café Central,Plaza de la Constitución 11,Málaga
+cafe,36.6763364,-4.4915633,Starbucks,NO STREET 9999,Málaga
+cafe,36.6830024,-4.4707306,Caffe Pascucci Shop Malaga,NO STREET 9999,Málaga
+cafe,36.7184077,-4.4210516,Cafetería Plaza,NO STREET 9999,Málaga
+cafe,36.7190158,-4.4214069,Café Lepanto,Calle Marqués de Larios 7,Málaga
+cafe,36.721321,-4.4345534,NO NAME,NO STREET 9999,Málaga
+cafe,36.7218593,-4.4184173,NO NAME,NO STREET 9999,Málaga
+cafe,36.678247,-4.4954349,Dehesa Santol Maria,NO STREET 9999,Málaga
+cafe,36.7305193,-4.4393411,Candelaria,Calle Nuestra Señora de los Clarines 9,Málaga
+cafe,36.72142,-4.418836,La Tetería,NO STREET 9999,Málaga
+cafe,36.7191625,-4.4217411,NO NAME,NO STREET 9999,Málaga
+cafe,36.677096,-4.4940389,Starbucks,NO STREET 9999,Málaga
+cafe,36.7208794,-4.4763865,El pequeño Buda - Tetería,Calle Antígona 8,Málaga
+cafe,36.723792,-4.4177981,Cafe Merced,Plaza de la Merced 14,Málaga
+cafe,36.7235855,-4.416978,Cafe Con Libros,Plaza de la Merced 20,Málaga
+cafe,36.7230022,-4.4208299,Palacio Nazari,NO STREET 9999,Málaga
+cafe,36.7230897,-4.4207244,Tejeringo's,NO STREET 9999,Málaga
+cafe,36.7209488,-4.422846,Roldan Panade,NO STREET 9999,Málaga
+cafe,36.7189708,-4.4210857,Cafe Moka,NO STREET 9999,Málaga
+cafe,36.7187895,-4.4234198,Casa Aranda,Calle de la Alhóndiga 1,Málaga
+cafe,36.7210572,-4.3588865,Cuatro Esquinas,NO STREET 9999,Málaga
+cafe,36.720926,-4.3590815,Salón Florido,NO STREET 9999,Málaga
+cafe,36.721033,-4.358742,Migui,NO STREET 9999,Málaga
+cafe,36.7166378,-4.4234132,Locutorio,NO STREET 9999,Málaga
+cafe,36.6887762,-4.455462,Café Molière,Calle Palma del Río 19,Málaga
+cafe,36.7213969,-4.4214484,Cónico,NO STREET 9999,Málaga
+cafe,36.7168489,-4.413288,Cónico,NO STREET 9999,Málaga
+cafe,36.6989224,-4.4480015,Tetería Nirvana,NO STREET 9999,Málaga
+cafe,36.713002,-4.4319151,NO NAME,Calle Mendívil 6,Málaga
+cafe,36.7190077,-4.4249194,Café con Arte,Plaza de Arriola 1,Málaga
+cafe,36.7173082,-4.4123609,NO NAME,Paseo de la Farola 8,Málaga
+cafe,36.7205949,-4.4180618,Eurogallo,Calle Císter 11,Málaga
+cafe,36.7219468,-4.4207047,Café Madrid,NO STREET 9999,Málaga
+cafe,36.7207565,-4.4096072,Café Bar Flor,Paseo de Reding 14,Málaga
+cafe,36.7220119,-4.4190565,Granier,NO STREET 9999,Málaga
+cafe,36.7209354,-4.3767429,NO NAME,NO STREET 9999,Málaga
+cafe,36.7220713,-4.4174754,Cafe del Viajero,Calle Santiago 8,Málaga
+cafe,36.7204897,-4.4183186,Café Berlin,Calle Afligidos 2,Málaga
+cafe,36.712692,-4.434586,NO NAME,NO STREET 9999,Málaga
+cafe,36.6766259,-4.4931255,schocoffeeco,NO STREET 9999,Málaga
+cafe,36.7236764,-4.4923388,Hornos Villanueva,NO STREET 9999,Málaga
+cafe,36.6977045,-4.4462441,El Jardín de las Delicias,Calle Ildefonso Marzo 12,Málaga
+cafe,36.7143201,-4.4239585,Play Planet Coffee and Shop,Calle San Lorenzo 18,Málaga
+cafe,36.7229269,-4.4239663,Julia Bakery Málaga,NO STREET 9999,Málaga
+cafe,36.7225927,-4.4505898,NO NAME,NO STREET 9999,Málaga
+cafe,36.7224253,-4.4496623,Oña,NO STREET 9999,Málaga
+cafe,36.7221186,-4.4482565,Al Andalus,NO STREET 9999,Málaga
+cafe,36.7178453,-4.4620162,Insitu coffee&cocktail,NO STREET 9999,Málaga
+cafe,36.7156681,-4.4227123,NO NAME,NO STREET 9999,Málaga
+cafe,36.7189056,-4.4098552,Cafetería Horizonte,Calle Cervantes 13,Málaga
+cafe,36.715877,-4.4628462,NO NAME,NO STREET 9999,Málaga
+cafe,36.7214104,-4.4150434,NO NAME,NO STREET 9999,Málaga
+cafe,36.719595,-4.3603414,Zapata,NO STREET 9999,Málaga
+cafe,36.7211029,-4.422377,Nespresso,NO STREET 9999,Málaga
+cafe,36.7208283,-4.4222948,Costa Coffee,Plaza de la Constitución 4,Málaga
+cafe,36.7194707,-4.4248842,Recyclo Bike Café,Plaza Enrique García-Herrera 16,Málaga
+cafe,36.7222279,-4.4227404,Mía Coffee Shop,Plaza de los Mártires Ciriaco y Paula 4,Málaga
+cafe,36.7195462,-4.4234837,Cafeteria Bertani Café,Calle San Juan 40,Málaga
+cafe,36.7109436,-4.4271718,Cafe Bar torrú,Calle Alfonso Reyes 4,Málaga
+cafe,36.6956668,-4.4388379,Mums Cafetería-Cervecería-Heladería,Calle Pacífico 23,Málaga
+cafe,36.7201336,-4.4236083,La Recova,Pasaje Nuestra Señora de los Dolores de San Juan 3,Málaga
+cafe,36.7309253,-4.4150056,Cafetería El Cañón,Calle Cristo de la Epidemia 68,Málaga
+cafe,36.7257672,-4.4145527,Café bar Victoria,Calle Victoria 86,Málaga
+cafe,36.7221227,-4.417231,Café Negro,Calle Alcazabilla 9,Málaga
+cafe,36.7273672,-4.4134995,Bar los del Colmenar,Calle Compás de la Victoria 4,Málaga
+cafe,36.7267551,-4.4136853,Café Bar El Jardín de los Monos,NO STREET 9999,Málaga
+cafe,36.7271019,-4.4133443,Jaral Café,Calle Ferrándiz 3,Málaga
+cafe,36.7271773,-4.4138197,Cafetería Isamoa,Calle Compás de la Victoria 1,Málaga
+cafe,36.7295771,-4.4146208,Bar El Tornado,Calle Cristo de la Epidemia 50,Málaga
+cafe,36.7268888,-4.4121959,Bar Los Reyes,Calle Barcenillas 3,Málaga
+cafe,36.7291951,-4.4153208,Café Bar Lorena II,Calle Manrique 15,Málaga
+cafe,36.7272166,-4.4128199,Café Bar Ferrándiz,Calle Ferrándiz 13,Málaga
+cafe,36.7319183,-4.4155127,Cafetería Glasse,Calle Cristo de la Epidemia 81,Málaga
+cafe,36.7320384,-4.4155307,Baramios,Calle Cristo de la Epidemia 52,Málaga
+cafe,36.7327891,-4.4166769,Cafetería Fuente Olletas,Alameda Capuchinos 85,Málaga
+cafe,36.7306088,-4.4189997,Diamar,Alameda Capuchinos 38,Málaga
+cafe,36.7327624,-4.3975192,Cafe Sanyres,NO STREET 9999,Málaga
+cafe,36.7246596,-4.398548,La Tertulia,Paseo del Limonar 12,Málaga
+cafe,36.7248203,-4.3988354,Cafe Limonar,Paseo del Limonar 13,Málaga
+cafe,36.7273555,-4.4122848,Cafe Bar Costa del Sol Orly,Calle Hurtado de Mendoza 2,Málaga
+cafe,36.7233479,-4.3960177,Cafe Seven,Avenida Pintor Joaquín Sorolla 12,Málaga
+cafe,36.7232764,-4.3964569,Cafe Bar El Arbol,Avenida Pintor Joaquín Sorolla 8,Málaga
+cafe,36.7215786,-4.401613,Cafeteria Emperatriz,Paseo de Sancha 30,Málaga
+cafe,36.7214453,-4.4042693,La Camperia Malaguita,Paseo de Sancha 10,Málaga
+cafe,36.7182219,-4.4299396,Starbucks,Calle Hilera 8,Málaga
+cafe,36.7208459,-4.3567093,Café-Bar Andrés,NO STREET 9999,Málaga
+cafe,36.7206524,-4.3572252,Cafetería Adams,Calle Almería 32,Málaga
+cafe,36.7183185,-4.4106636,Qué Chévere!,NO STREET 9999,Málaga
+cafe,36.7194904,-4.4100806,Bon Appetit,Calle Cervantes 10,Málaga
+cafe,36.7195614,-4.4110167,El Huerto,NO STREET 9999,Málaga
+cafe,36.7267416,-4.4121533,La Piraña,Calle Barcenillas 5,Málaga
+cafe,36.7172607,-4.4111006,El Mercader,Paseo Marítimo Ciudad de Melilla 19,Málaga
+cafe,36.7181753,-4.4235239,La Canasta,Calle Atarazanas 7,Málaga
+cafe,36.7260117,-4.4179381,Bar Trini,Calle Cruz Verde 5,Málaga
+cafe,36.7205867,-4.4257911,Le Grand Café Centro,Pasillo Guimbarda 9999,Málaga
+cafe,36.7271567,-4.4140511,Bar Pedroso,Plaza de la Victoria 16,Málaga
+cafe,36.7192152,-4.4231123,Starbucks Coffee,Plaza de Félix Sáenz 9,Málaga
+cafe,36.7314995,-4.4498581,Cafetería Bar El Rincón,NO STREET 9999,Málaga
+cafe,36.7308265,-4.4460568,Café Rouge,NO STREET 9999,Málaga
+cafe,36.7193191,-4.4236366,NO NAME,Calle Sebastián Souvirón 6,Málaga
+cafe,36.7144379,-4.4231179,NO NAME,Avenida Manuel Agustín Heredia 20,Málaga
+cafe,36.7142444,-4.4233037,NO NAME,Avenida Manuel Agustín Heredia 22,Málaga
+cafe,36.7146146,-4.4235748,NO NAME,Calle Duquesa de Parcent 10,Málaga
+cafe,36.7168019,-4.4220587,NO NAME,NO STREET 9999,Málaga
+cafe,36.7173945,-4.4247174,Salón Axarquia,Alameda Principal 36,Málaga
+cafe,36.7178661,-4.4244207,Bar Los Pueblos,Calle Atarazanas 17,Málaga
+cafe,36.7180982,-4.4245086,Pathelín,Calle Atarazanas 10,Málaga
+cafe,36.7188674,-4.4231238,El Tren,Calle Puerta del Mar 4,Málaga
+cafe,36.7184371,-4.4235111,Don Premio,Calle Atarazanas 6,Málaga
+cafe,36.7311573,-4.4204707,Bocateria Los Delfines,NO STREET 9999,Málaga
+cafe,36.730081,-4.4196493,NO NAME,NO STREET 9999,Málaga
+cafe,36.7207874,-4.4237474,Cafetería Framil,Calle Cisneros 1,Málaga
+cafe,36.7132012,-4.4334196,NO NAME,NO STREET 9999,Málaga
+cafe,36.731135,-4.4213871,Heladería Cafetería Mayke,NO STREET 9999,Málaga
+cafe,36.7229609,-4.4239239,Brunchit,Calle Carretería 46,Málaga
+cafe,36.7192748,-4.4105762,Cafe Levante,Calle Arenal 1,Málaga
+cafe,36.7192886,-4.4107531,Caffé Italia,Calle Arenal 1,Málaga
+cafe,36.7216901,-4.4283862,Molina,Calle Mármoles 30,Málaga
+cafe,36.7252142,-4.4205877,La Espiral,Calle Dos Aceras 24,Málaga
+cafe,36.7047502,-4.4392253,La Princesa,Calle Héroe de Sostoa 97,Málaga
+cafe,36.709996,-4.4311323,Goldy,Calle Góngora 21,Málaga
+cafe,36.7168402,-4.4233085,Santa Canela,Calle Trinidad Grund 24,Málaga
+cafe,36.720601,-4.424561,Massumi,NO STREET 9999,Málaga
+cafe,36.7230104,-4.4240741,Desiderio,NO STREET 9999,Málaga
+cafe,36.7211167,-4.4238524,Casa Aranda,NO STREET 9999,Málaga
+cafe,36.7219454,-4.4192426,Thiblos,NO STREET 9999,Málaga
+cafe,36.7237847,-4.4172875,Starbucks,Plaza de la Merced 18,Málaga
+cafe,36.6752568,-4.4899006,NO NAME,NO STREET 9999,Málaga
+cafe,36.7202609,-4.4241938,Santa Canela Café,Calle Fernán González 6,Málaga
+cafe,36.7159014,-4.421972,The Cereal Boom,Calle Córdoba 14,Málaga
+cafe,36.659883,-4.4928995,NO NAME,Carretera de Coín 30,Málaga
+cafe,36.7210307,-4.4215758,Panadería La Canasta,Plaza de la Constitución 13,Málaga
+cafe,36.7186517,-4.4136649,Dunkin Coffee,NO STREET 9999,Málaga
+cafe,36.7201804,-4.3633593,Tejeringo‘s Coffee,Avenida Pío Baroja 14,Málaga
+cafe,36.7218904,-4.4207174,San Miguel,NO STREET 9999,Málaga
+cafe,36.7223602,-4.4226639,Dulces Dreams,Plaza de los Mártires Ciriaco y Paula 6,Málaga
+cafe,36.7022596,-4.445911,NO NAME,NO STREET 9999,Málaga
+cafe,36.718777,-4.4235464,Brunchit,NO STREET 9999,Málaga
+cafe,36.7239213,-4.4174749,Calle de Bruselas,Plaza de la Merced 16,Málaga
+cafe,36.7139745,-4.4277129,Korner 23,Calle Cuarteles 23,Málaga
+cafe,36.6656814,-4.4986917,Cafetería La Terraza de Cocó,Calle Julio Caro Baroja 10,Málaga
+cafe,36.7379744,-4.4219925,Tejeringos,Avenida de las Postas 5,Málaga
+cafe,36.7295406,-4.41636,Cafetería Heda,Calle Paco Miranda 8,Málaga
+cafe,36.6834748,-4.4561518,Cafetería Tejeringos,Avenida Imperio Argentina 7,Málaga
+cafe,36.7242816,-4.4327355,Cafetería Navarro,Calle Natalia 25,Málaga
+cafe,36.7505767,-4.422535,City Churros,Camino Casabermeja 16,Málaga
+cafe,36.7230798,-4.4209189,Café de Autor,Calle Méndez Núñez 9,Málaga
+cinema,36.6850666,-4.472571,CineSur,Calle Jaén 1,Málaga
+cinema,36.7117478,-4.4339195,NO NAME,Calle Explanada de la Estación 1,Málaga
+cinema,36.7344735,-4.4313935,Multicines Rosaleda,NO STREET 9999,Málaga
+cinema,36.691301,-4.4870626,Autocines Málaga,Carretera Azucarera-Intelhorce 9999,Málaga
+theatre,36.7163866,-4.4235166,Teatro Flamenco El Soho,Calle Vendeja 30,Málaga
+theatre,36.7359502,-4.4229388,Colectivo Cultural Maynake,Calle San Juan Bosco 79,Málaga
+theatre,36.7272149,-4.414536,Urte Teatro,NO STREET 9999,Málaga
+theatre,36.7162369,-4.4218448,Teatro del Soho,Calle Córdoba 13,Málaga
+theatre,36.7208425,-4.4247052,Centro de Arte Flamenco Kelipé,Calle Muro de Puerta Nueva 10,Málaga
