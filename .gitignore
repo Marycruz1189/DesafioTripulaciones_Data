@@ -1,11 +1,18 @@
-# se eliminan los archivos de configuración
-*settings*
-*BDD.txt
+
+Añade los archivos que deban ser ignorados
+/*config*/
+=======
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# elementos ocultos del proyecto por peso o por privacidad
+documentation/
+
+/*settings*/
+
 
 # C extensions
 *.so
