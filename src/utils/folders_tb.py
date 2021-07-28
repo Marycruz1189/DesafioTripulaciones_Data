@@ -17,10 +17,12 @@ src_path = dir(dir(dir(__file__)))
 # se incorpora la ruta hasta el directorio raiz al path del archivo
 sys.path.append(src_path)
 
-def read_Loc_SP ():
-    filename = src_path + '/data/final_loc.csv'
-    Localidades_SP= pd.read_csv(filename, sep=',')
-    return Localidades_SP
+
+def read_file_toDF (filename,sep_):
+    filename = src_path + '/data/'+filename+'.csv'
+    df_out= pd.read_csv(filename, sep=sep_)
+    return df_out
+
 
 def save_df_to_csv(final_df, filename):
     final_df.to_csv(src_path + '/data/'+filename+'.csv')
