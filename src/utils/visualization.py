@@ -13,7 +13,7 @@ def users_pie_chart(dataframe, measure):
     return fig
 
 def scatter(dataframe, x, y):
-    fig = px.scatter(dataframe, x= x, y= y, title= 'relación grado discapacidad con nº de valoraciones', )
+    fig = px.scatter(dataframe, x= x, y= y)
     return fig
 
 app = dash.Dash(__name__)
@@ -39,4 +39,8 @@ def update_bar_chart(slider_range):
         df[mask], x="sepal_width", y="sepal_length", 
         color="species", size='petal_length', 
         hover_data=['petal_width'])
+    return fig
+
+def bar(dataframe, x, y, title):
+    fig = px.bar(dataframe, x=x, y=y, title=title)
     return fig
