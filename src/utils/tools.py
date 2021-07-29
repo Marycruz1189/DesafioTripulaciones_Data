@@ -18,7 +18,6 @@ src_path = dir(dir(dir(__file__)))
 # se incorpora la ruta hasta el directorio raiz al path del archivo
 sys.path.append(src_path)
 
-
 def read_json_to_dict(json_fullpath):
     """
     Read a json and return a object created from it.
