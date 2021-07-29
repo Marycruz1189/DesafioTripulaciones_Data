@@ -1,11 +1,14 @@
 import pymysql
 import sys, os
 
-'''dir = os.path.dirname
+dir = os.path.dirname
 src_path = dir(__file__)
 sys.path.append(src_path)
 
-from jsons import read_json_to_dict'''
+def read_json(fullpath):
+    with open(fullpath, "r") as json_file_readed:
+        json_readed = json.load(json_file_readed)
+    return json_readed
 
 class MySQL:
 
@@ -102,7 +105,7 @@ def replace_guion (stri):
 if __name__ == "__main__":
     def create_table_EDA_MAD (df):
         # lectura de los datos de conexión a la base de datos y generación de las variables para conectarse
-        json_readed = read_json_to_dict("sql_settings.json")
+        json_readed = read_json("sql_settings.json")
         IP_DNS = json_readed["IP_DNS"]
         USER = json_readed["USER"]
         PASSWORD = json_readed["PASSWORD"]
