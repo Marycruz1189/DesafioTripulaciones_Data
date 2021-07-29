@@ -66,7 +66,9 @@ def insert_sqlList (df_sql, table_name):
     # cierre de la conexión a la base de datos
     mysql_db.close()
 
+
 def get_data_sql (table_name,current_cols):
+
     # lectura de los datos de conexión a la base de datos y generación de las variables para conectarse
     json_readed = tools.read_json_to_dict("utils" + os.sep + "sql_settings.json")
     IP_DNS = json_readed["IP_DNS"]
@@ -79,7 +81,9 @@ def get_data_sql (table_name,current_cols):
     mysql_db = MySQL(IP_DNS=IP_DNS, USER=USER, PASSWORD=PASSWORD, BD_NAME=BD_NAME, PORT=PORT)
     mysql_db.connect()
     list_ = mysql_db.execute_get_sql(f"SELECT * FROM {table_name}")
+
     df_sql = pd.DataFrame(list_, columns= current_cols) #
+
     
     # cierre de la conexión a la base de datos
     mysql_db.close()
